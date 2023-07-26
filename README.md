@@ -5,7 +5,7 @@
 ## State, Event beginner Practice 
 (Step)--project code and Demo Link : https://codesandbox.io/s/step-project-5c3m6m
 ## State, Event and Form Interactive Components Beginner practice 
-(Far-Away)--project code and Demo Link : https://codesandbox.io/s/crimson-monad-s4pgmk
+(Far-Away)--project code and Demo Link : https://codesandbox.io/s/far-way-s4pgmk
 ## Exercise 01 (Accordion)
 link: https://codesandbox.io/s/exercise-01-accordion-kjx9xx
 
