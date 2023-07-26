@@ -13,6 +13,8 @@ https://codesandbox.io/s/youthful-lewin-zg25lc
 ## Exercise ---------
 1. Exercise 01 Accordion (v1)
 link: https://codesandbox.io/s/exercise-01-accordion-kjx9xx
+2. Exercise 01 Accondion (v2)
+link: https://codesandbox.io/s/exercise-01-v2-accordion-forked-xy6llw
 
 
 ## Challenge-Udemy-Course
