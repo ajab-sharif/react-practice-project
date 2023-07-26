@@ -1,7 +1,7 @@
 # react-practice-project
 
 ## Working With Components , Proops , and JSX 
-(Pizza Menu)--project code and Demo Link : https://codesandbox.io/s/ecstatic-tree-psw3t5
+(Pizza Menu)--project code and Demo Link : https://codesandbox.io/s/pizza-menu-psw3t5?file=/src/index.js
 ## State, Event beginner Practice 
 (Step)--project code and Demo Link : https://codesandbox.io/s/blue-breeze-5c3m6m
 ## State, Event and Form Interactive Components Beginner practice 
