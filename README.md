@@ -6,7 +6,8 @@
 (Step)--project code and Demo Link : https://codesandbox.io/s/step-project-5c3m6m
 ## State, Event and Form Interactive Components Beginner practice 
 (Far-Away)--project code and Demo Link : https://codesandbox.io/s/far-way-s4pgmk
-
+## Practice Project Eat-N-Split 
+(Eat-N-Split) link: https://codesandbox.io/s/practice-project-smm44w
 # Stack Learner React :
 https://codesandbox.io/s/youthful-lewin-zg25lc
 
