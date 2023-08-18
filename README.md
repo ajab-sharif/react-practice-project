@@ -24,7 +24,7 @@ link: https://codesandbox.io/s/exercise-01-v2-accordion-forked-xy6llw
 1) Challenge 1 (v1) link(date-counter): https://codesandbox.io/s/challenge-1-v1-6gt4g8?file=/src/App.js   
 2) Challenge 2 (v2) link(date-counter): https://codesandbox.io/s/challenge-2-v1-mzmynh?file=/src/App.js                       
 -----------Thinking In React State Management-------------  
-3) challenge 1 (v1) link(tip-calculator) : https://codesandbox.io/s/challenge-1-v1-tip-calculator-z979zp?file=/src/components/ResetButton.js                                  
+3) challenge 1 (v1) link(tip-calculator) : https://codesandbox.io/s/challenge-1-v1-tip-calculator-z979zp?file=/src/index.js                                  
  ------------Thinking in React Components, Composition, and Reusability--------
 5) challenge 1 link(textExpander) https://codesandbox.io/s/challenge-textexpander-mhhx6r
 
