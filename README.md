@@ -9,9 +9,9 @@
 ## Practice Project Eat-N-Split 
 (Eat-N-Split) link: https://codesandbox.io/s/practice-project-smm44w
 ## Thinking in React Components, Composition, and Reusability
-(usePopcorn ) link: https://codesandbox.io/s/usepopcon-8vhnkn?file=/src/App.js
+(usePopcorn ) link: https://codesandbox.io/s/usepopcorn-8vhnkn?file=/src/App.js
 # Stack Learner React :
-https://codesandbox.io/s/youthful-lewin-zg25lc
+link: https://codesandbox.io/s/stack-learner-project-01-8yhc8h
 
 ## Exercise ---------
 1. Exercise 01 Accordion (v1)
