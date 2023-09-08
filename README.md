@@ -26,5 +26,7 @@ link: https://codesandbox.io/s/exercise-01-v2-accordion-forked-xy6llw
 -----------Thinking In React State Management-------------  
 3) challenge 1 (v1) link(tip-calculator) : https://codesandbox.io/s/challenge-1-v1-tip-calculator-z979zp?file=/src/index.js                                  
  ------------Thinking in React Components, Composition, and Reusability--------
-5) challenge 1 link(textExpander) https://codesandbox.io/s/challenge-textexpander-mhhx6r
-
+4) challenge 1 link(textExpander) https://codesandbox.io/s/challenge-textexpander-mhhx6r
+----------------Effect and data Fetching-------- 
+5) challenge 1 link(currencyConverter) : https://codesandbox.io/s/challenge-currency-converter-nkrj28
+7) 
