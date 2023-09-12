@@ -10,6 +10,10 @@
 (Eat-N-Split) link: https://codesandbox.io/s/practice-project-smm44w
 ## Thinking in React Components, Composition, and Reusability
 (usePopcorn ) link: https://codesandbox.io/s/usepopcorn-8vhnkn?file=/src/App.js
+## react-useReducer-hook 
+1) dateCounter/Quiz App link: https://codesandbox.io/s/react-reducer-hook-977wg7?file=/src/DateCounter.js
+2)  
+1
 # Stack Learner React :
 link: https://codesandbox.io/s/stack-learner-project-01-8yhc8h
 
