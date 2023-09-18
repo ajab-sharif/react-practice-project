@@ -12,7 +12,8 @@
 (usePopcorn ) link: https://codesandbox.io/s/usepopcorn-8vhnkn?file=/src/App.js
 ## react-useReducer-hook 
 1) dateCounter/Quiz App link: https://codesandbox.io/s/react-reducer-hook-977wg7?file=/src/DateCounter.js
-2)  
+2) React Quiz App Link : https://codesandbox.io/p/sandbox/react-reducer-hook-977wg7?file=/src/App.js:1,1
+3) 
 1
 # Stack Learner React :
 link: https://codesandbox.io/s/stack-learner-project-01-8yhc8h
